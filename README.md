@@ -381,7 +381,7 @@ Full-featured admin panel with employee management, payroll processing, analytic
   </picture>
 </div>
 
-> 💡 **Note:** To enable the snake animation, set up the [snk GitHub Action](https://github.com/Platane/snk) in your profile repository.
+
 
 ---
 
