@@ -1,14 +1,13 @@
-<!-- This is the GitHub Profile README source code for riturajrishu -->
-<!-- Copy this entire content into your GitHub profile repo's README.md -->
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED HEADER                            -->
+<!--        GITHUB PROFILE README — RITU RAJ (RITU RAJ RISHU)          -->
+<!--        Copy this entire file content into your GitHub profile    -->
+<!--        repository: https://github.com/riturajrishu/riturajrishu   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
   <!-- Animated wave header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:3b82f6,100:06b6d4&height=220&section=header&text=Ritu%20Raj&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Future%20of%20the%20Web&descSize=18&descColor=ccccff&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:3b82f6,100:06b6d4&height=220&section=header&text=Ritu%20Raj%20(Rishu)&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20aka%20Ritu%20Raj%20Rishu&descSize=18&descColor=ccccff&descAlignY=55&animation=fadeIn" />
 
   <br/>
 
@@ -34,34 +33,36 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 ```yaml
-name: Ritu Raj
+name: Ritu Raj (aka Rishu)
+search_alias: "Ritu Raj Rishu"
 located_in: Patna, Bihar, India
-currently: B.Tech in CSE @ Gandhi Institute for Education & Technology, Odisha
-role: Full Stack Developer
-focus: Building production-grade web applications with modern technologies
+education: B.Tech in CSE (8.19 CGPA) @ Gandhi Institute for Education & Technology
+role: Full Stack Software Engineer
+focus: Building production-grade, scalable web applications with modern architectures
 
 passion:
   - Clean, maintainable, and well-documented code
   - Pixel-perfect UIs with modern design principles
-  - High-performance, optimized user experiences
+  - High-performance, optimized full-stack systems
 
-currently_learning:
-  - AI & Machine Learning Integration
+currently_exploring:
+  - AI & Machine Learning / RAG Architecture
   - Three.js & 3D Web Experiences
-  - System Design & Architecture
+  - Distributed Systems & Cloud Infrastructure
 
 fun_fact: "3x Champion at Tech Mind 🏆 | District Topper in KYP Exam 🎯"
 ```
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-- 🔭 Currently building **enterprise-level** full-stack applications
-- 🧠 Exploring **AI/ML**, **RAG Systems** & **Generative AI**
-- 🏆 **3x Tech Mind Champion** at annual techno-cultural fest
-- 💼 Former **Software Dev Intern** at **DeepSurge AI Tech**
-- 🎓 Pursuing **B.Tech in CSE** (2022 – Present)
+- 👋 Hey there! I'm **Ritu Raj**, commonly known by my nickname **Rishu** (often searched as **Ritu Raj Rishu**)
+- 🎓 **B.Tech in CSE Graduate** (2022 – 2026) with **8.19 CGPA**
+- 🔭 Currently engineering **enterprise-level** full-stack applications & web solutions
+- 🧠 Deep diving into **AI/ML**, **RAG Systems** & **Generative AI**
+- 🏆 **3x Consecutive Tech Mind Champion** (2024, 2025, 2026)
+- 💼 Former **Software Dev Intern** at **DeepSurge AI Tech** (Vision AI)
+- 🎯 **District Topper** in Kushal Yuva Program (KYP) Examination
 - 📫 Reach me at **itsriturajrishu@gmail.com**
-- ⚡ Fun fact: I topped the entire district in KYP Examination!
 
 <br clear="both"/>
 
@@ -78,13 +79,13 @@ fun_fact: "3x Champion at Tech Mind 🏆 | District Topper in KYP Exam 🎯"
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,html,css&theme=dark" />
 
-### ⚙️ Backend
+### ⚙️ Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
 
-### 🔧 Tools & Platforms
+### 🔧 Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&theme=dark" />
 
-### 🧠 Currently Exploring
+### 🧠 AI & Advanced
 <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48"/>
@@ -106,7 +107,7 @@ fun_fact: "3x Champion at Tech Mind 🏆 | District Topper in KYP Exam 🎯"
 
 ### 🔐 KeeperX Enterprise — Password Manager
 <p>
-Zero-knowledge password manager with <b>AES-256-GCM</b> encryption, <b>WebAuthn</b> passkey login, Dark Web Breach Scanner, Vault Hygiene Audit, and a built-in browser extension.
+Enterprise-grade, zero-knowledge password manager with <b>AES-256-GCM</b> encryption, <b>WebAuthn</b> passkeys, Dark Web Breach Scanner, Vault Hygiene Audit, and cross-platform browser extension.
 </p>
 
 🛠 **Tech Stack**  
@@ -115,7 +116,7 @@ Zero-knowledge password manager with <b>AES-256-GCM</b> encryption, <b>WebAuthn<
 ✨ **Highlights**
 - 🔒 Zero-Knowledge AES-256 Encryption
 - 🛡️ Passkey (WebAuthn) & Biometric Login
-- 🌐 Dark Web Breach Scanner
+- 🌐 Dark Web Breach Scanner & Audit
 - 🧩 Browser Extension Integration
 
 🔗 **Links**  
@@ -124,9 +125,9 @@ Zero-knowledge password manager with <b>AES-256-GCM</b> encryption, <b>WebAuthn<
 </td>
 <td width="50%" valign="top">
 
-### 💬 Real-Time Chat Application
+### 💬 ChatterX — Real-Time Chat Platform
 <p>
-WhatsApp-style app with <b>Socket.io</b> real-time messaging, <b>WebRTC</b> video/audio calls, delivery status tracking, and push notifications via FCM.
+WhatsApp-style communication suite with <b>Socket.io</b> real-time messaging, <b>WebRTC</b> video/audio calls, delivery status tracking, and push notifications via FCM.
 </p>
 
 🛠 **Tech Stack**  
@@ -167,22 +168,22 @@ Full-stack document intelligence system powered by <b>RAG architecture</b> with 
 </td>
 <td width="50%" valign="top">
 
-### 🎂 WishCraft — Birthday Platform
+### 🏫 B.B. Chhatoi HSS — Educational Portal
 <p>
-Cinematic, personalized birthday celebration platform with real-time collaboration, <b>AI-generated messages</b>, and interactive wish pages.
+Production-grade educational portal with interactive campus discovery, admission guidelines, automated CHSE streams, and smooth scroll animations.
 </p>
 
 🛠 **Tech Stack**  
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,mongodb,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts&theme=dark" />
 
 ✨ **Highlights**
-- 🎉 Collaborative wish boards
-- 🤖 AI message generation
-- 🎬 Cinematic animations
-- ⏰ Scheduled birthday reveals
+- 🎓 Interactive Campus Explorer
+- 📢 Dynamic Announcements & Events Ticker
+- 🧭 Integrated SAMS Odisha Admission Guide
+- ✨ Scroll-Linked Motion & Responsive Layout
 
 🔗 **Links**  
-📁 [Repository](https://github.com/riturajrishu)
+▶️ [Live Demo](https://bbchhatoihss.vercel.app/) &nbsp;|&nbsp; 📁 [Repository](https://github.com/riturajrishu)
 
 </td>
 </tr>
@@ -192,7 +193,7 @@ Cinematic, personalized birthday celebration platform with real-time collaborati
 
 ### 🌐 3D Developer Portfolio
 <p>
-Premium portfolio with <b>Three.js</b> particle animations, glassmorphism UI, custom cursor effects, and cinematic transitions.
+Award-worthy portfolio featuring <b>Three.js</b> particle systems, glassmorphism UI, custom cursor effects, procedural audio synth, and cinematic transitions.
 </p>
 
 🛠 **Tech Stack**  
@@ -204,13 +205,13 @@ Premium portfolio with <b>Three.js</b> particle animations, glassmorphism UI, cu
 </td>
 <td width="50%" valign="top">
 
-### 📊 Enterprise Admin Dashboard
+### 🎂 WishCraft — Birthday Platform
 <p>
-Full-featured admin panel with employee management, payroll processing, analytics charts, and role-based access control.
+Cinematic, personalized birthday celebration platform with real-time collaboration, <b>AI-generated messages</b>, and interactive wish boards.
 </p>
 
 🛠 **Tech Stack**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,mongodb,nodejs&theme=dark" />
 
 🔗 **Links**  
 📁 [Repository](https://github.com/riturajrishu)
@@ -256,13 +257,13 @@ Full-featured admin panel with employee management, payroll processing, analytic
 <td>🤖</td>
 <td><b>Generative AI Mastermind — Outskill</b></td>
 <td>2026</td>
-<td>Proficiency in modern AI concepts & applications</td>
+<td>Proficiency in modern AI concepts & practical applications</td>
 </tr>
 <tr>
 <td>🛡️</td>
 <td><b>Cyber Security Simulation — Deloitte</b></td>
 <td>2025</td>
-<td>Hands-on threat analysis & security protocols</td>
+<td>Hands-on threat analysis & enterprise security protocols</td>
 </tr>
 <tr>
 <td>📜</td>
@@ -285,16 +286,16 @@ Full-featured admin panel with employee management, payroll processing, analytic
            C, Python, DSA Basics — Started coding & fell in love with problem-solving
 
 2023 ──── 🎨 Frontend Foundations
-           HTML, CSS, JavaScript, Responsive Design — Built first responsive websites
+           HTML, CSS, JavaScript, Responsive Design — Built responsive web apps
 
 2024 ──── ⚛️ React & Modern Frontend
-           React, Next.js, Tailwind CSS, TypeScript — Production-grade apps
+           React, Next.js, Tailwind CSS, TypeScript — Production-grade architectures
 
 2025 ──── 🔥 Full Stack Mastery
-           Node.js, Express, MongoDB, Socket.io, WebRTC — Real-time full-stack systems
+           Node.js, Express, MongoDB, Socket.io, WebRTC — Scalable real-time systems
 
 2026 ──── 🚀 AI & Advanced Engineering
-           AI/ML, Three.js, Docker, System Design — Building intelligent web products
+           B.Tech CSE Graduate (8.19 CGPA) | AI/ML, Three.js, Docker, System Design
 ```
 
 ---
@@ -342,7 +343,7 @@ Full-featured admin panel with employee management, payroll processing, analytic
 
 | 📅 Year | 🎓 Degree | 🏫 Institution | 📍 Location |
 |---------|-----------|----------------|-------------|
-| 2022 – Present | **B.Tech in CSE** | Gandhi Institute for Education & Technology | Baniatangi, Odisha |
+| 2022 – 2026 | **B.Tech in CSE (8.19 CGPA)** | Gandhi Institute for Education & Technology | Baniatangi, Odisha |
 | 2020 – 2022 | **Intermediate (+2)** | A.B.S Inter College | Lalganj, Vaishali |
 | 2019 – 2020 | **Matriculation (10th)** | Vishashvi Public School | Patna, Bihar |
 
@@ -381,8 +382,6 @@ Full-featured admin panel with employee management, payroll processing, analytic
   </picture>
 </div>
 
-
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -395,7 +394,7 @@ Full-featured admin panel with employee management, payroll processing, analytic
 
   <br/><br/>
 
-  <i>"Full Stack Developer building today & learning AI to shape tomorrow."</i>
+  <i>"Full Stack Developer building today & leveraging AI to shape tomorrow."</i>
 
   <br/><br/>
 
